@@ -1,4 +1,4 @@
-# The Skin of Things II - 'Appetizers!'
+# 'Appetizers!'
 
 From 15 to 19 March 2021 we will have the second edition of The Skin of Things - a multidisciplinary gathering centered around the perception and depiction of materials. Just like many other conferences we will go on-line, with some regret as the previous Skin of Things was such a nice social event in and around the Rijksmuseum in Amsterdam. 
 
