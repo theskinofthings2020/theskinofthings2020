@@ -6,8 +6,7 @@ To accommodate this melancholia, we thought of something to make up. Besides bei
 
 Besides looking back and looking forward, we also look sideways by programming exciting contributions from different perspectives. In the oncoming months we will design the program and we would like to consider many different contributions. Below we'll explain the type of contributions and the daily themes. 
 
-<!--Do not let these themes prevent you from submitting, we can accomodate some 
--->
+
 
 
 # Talk types
@@ -54,6 +53,6 @@ We will update when we know what submission system we will use, for dates see be
 
 # Timeline
 
-**Submission deadline** 15 januari 2021
-**Notification of acceptance** 29 januari 2021
+**Submission deadline** 15 januari 2021<br>
+**Notification of acceptance** 29 januari 2021<br>
 **Conference** 15-19 March 2021
