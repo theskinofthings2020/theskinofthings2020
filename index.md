@@ -1,6 +1,6 @@
 # 'Appetizers!'
 
-From 15 to 19 March 2021 we will have the second edition of The Skin of Things - a multidisciplinary gathering centered around the perception and depiction of materials. Just like many other conferences we will go on-line, with some regret as the previous Skin of Things was such a nice social event in and around the Rijksmuseum in Amsterdam. 
+From **15 to 19 March 2021** we will have the second edition of The Skin of Things - a multidisciplinary gathering centered around the perception and depiction of materials. Just like many other conferences we will go on-line, with some regret as the previous Skin of Things was such a nice social event in and around the Rijksmuseum in Amsterdam. 
 
 To accommodate this melancholia, we thought of something to make up. Besides being a stage to share (almost) finished work we also invite to share preliminary ideas and work. If you are willing to join and contribute to these 'Appetizers', we promise to organize the 'Main Dish' where we can reflect and discuss the results in person, when the time comes. 
 
@@ -23,7 +23,7 @@ The appetizer talks are meant to start new research, have community discussions,
 # Themes
 
 ## General
-**Keynote:** Donald Hoffmann <br>
+**Keynote:** [Donald Hoffman](https://www.cogsci.uci.edu/~ddhoff/) <br>
 We will have one day to discuss material perception and depiction in a broad context. 
 
 
@@ -33,7 +33,7 @@ The perception and depiction of food is a theme that connects the mastery of sti
 
 
 ## Art making
-**Theme speaker:** TBA<br>
+**Theme speaker:** [Viola Eickmeier](https://studioviolet.org)<br>
 Many process of making are iterative and contain steps or stages that merit inspection themselves, next to the final result. This holds for painting as well as many other art or design processes. 
 
 ## Style 
