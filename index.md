@@ -56,3 +56,14 @@ We will update when we know what submission system we will use, for dates see be
 **Submission deadline** 15 januari 2021<br>
 **Notification of acceptance** 29 januari 2021<br>
 **Conference** 15-19 March 2021
+
+# Organizing committee
+Maarten Wijntjes
+Sylvia Pont
+Jeroen Stumpel
+Lisa Wiersma
+Francesca Di Cicco
+Mitchell van Zuylen
+Yuguang Zhao
+Ann-Sophie Lehmann
+
