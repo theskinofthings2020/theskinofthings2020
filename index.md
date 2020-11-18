@@ -58,12 +58,12 @@ We will update when we know what submission system we will use, for dates see be
 **Conference** 15-19 March 2021
 
 # Organizing committee
-Maarten Wijntjes
-Sylvia Pont
-Jeroen Stumpel
-Lisa Wiersma
-Francesca Di Cicco
-Mitchell van Zuylen
-Yuguang Zhao
+Maarten Wijntjes<br>
+Sylvia Pont<br>
+Jeroen Stumpel<br>
+Lisa Wiersma<br>
+Francesca Di Cicco<br>
+Mitchell van Zuylen<br>
+Yuguang Zhao<br>
 Ann-Sophie Lehmann
 
