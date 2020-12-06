@@ -8,7 +8,7 @@ Besides looking back and looking forward, we also look sideways by programming e
 
 
 
-
+<!--
 # Talk types
 ## Keynote and invited speakers. 
 Each day there will be at least 1 invited speaker that is related to the daily theme. On the main day (without theme) we will have a keynote. 
@@ -18,7 +18,7 @@ This is a talk that you would normally give on a conference, i.e. about 10-15 mi
 
 ## Appetizer talk
 The appetizer talks are meant to start new research, have community discussions, collaboration ideas etc. In early stages of ideation it can be very helpfull and inspiring to share your thoughts with a broad group of experts from different fields. Perhaps you want to share some preliminary sketches, experiments, data or merely thoughts. 
-
+-->
 
 # Themes
 
