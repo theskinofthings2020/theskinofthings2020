@@ -28,7 +28,7 @@ We will have one day to discuss material perception and depiction in a broad con
 
 
 ## Food 
-**Theme speaker:** TBA<br>
+**Theme speaker:** John Hutchings <br>
 The perception and depiction of food is a theme that connects the mastery of still life painters with packaging design, mutlisensory experience and product photography. The human faculty to visually infer material properties may actually be substantially due to the need to identify and prepare food. 
 
 
