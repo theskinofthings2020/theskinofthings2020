@@ -12,7 +12,9 @@ Besides looking back and looking forward, we also look sideways by programming e
 
 # Themes
 
-Each day we will discuss a different theme/perspective. The themes have a little bit 
+Each day we will discuss a different theme/perspective. The themes have overlap and should be considered as inspirations, not as limitations. Over the past years these specific themes have intrigued and inspired us and we hope they will attract many different views. 
+
+The order of the themes may change, so we haven't yet put dates in here. We keep updating information about invited speakers. 
 
 ## General
 **Keynote:** [Donald Hoffman](https://www.cogsci.uci.edu/~ddhoff/) <br>
@@ -37,7 +39,6 @@ One of the most exciting aspects of depiction is style. The simple algebraic tru
 ## Digital
 **Theme speaker:** TBA<br>
 A very broad term, that we will happily misuse to combine both digital art history and digital rendering. Digital art history is a very broad term that includes aspects from technical art history and conservation science but also the generation and analysis of artistic datasets. Digital rendering has clearly had its own 'oil revolution' over the past 2 decades and is still in high pace development, including generative algorithms. 
-
 
 
 
