@@ -31,7 +31,7 @@ The perception and depiction of food is a theme that connects the mastery of sti
 Many process of making are iterative and contain steps or stages that merit inspection themselves, next to the final result. This holds for painting as well as many other art or design processes. 
 
 
-## Style 
+## Style & Quality
 **Theme speaker:** TBA<br>
 One of the most exciting aspects of depiction is style. The simple algebraic truth that artwork=representation+style has intrigued art historians, designers, artists and vision scientists for ages, and recently has literally become algebraic with neural style transfer algorithms. 
 
