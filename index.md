@@ -44,7 +44,7 @@ A very broad term, that we will happily misuse to combine both digital art histo
 # Submission
 We welcome two types of contributions: Main Dishes and Appetizers. The Main Dishes are general contributions that aim to share (almost) finished work. The Appetizers are preliminary ideas, pilot experiments, unfinished research for which feedback, discussion or even collaborators are needed. 
 
-Abstracts can be send to <img src="images/emailtsot.jpg" alt="drawing" height="18"/>. Please included 1) title, 2) author names, 3) type (Appetizers or Main Dish) and 4) preferred theme in the document. You can use word, textfile, etc as long as we can copy the contents easily. 
+Abstracts can be send to <img src="images/emailtsot.jpg" alt="drawing" height="18"/>. Please included 1) title, 2) author names, 3) type (Appetizers or Main Dish) and 4) preferred theme in the document. You can use word, textfile, etc as long as we can copy the contents easily. <img src="images/header.jpg" alt="drawing" height="18"/>
 
 # Timeline
 
