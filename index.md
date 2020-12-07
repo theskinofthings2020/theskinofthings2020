@@ -18,8 +18,8 @@ The order of the themes may change, so we haven't yet put dates in here. We keep
 
 ## General
 **Keynote:** [Donald Hoffman](https://www.cogsci.uci.edu/~ddhoff/) <br>
-We will have one day to discuss material perception and depiction in a broad context. 
-<!---Extent text!!!!-->
+On the first day we will discuss material perception and depiction at large. We will look into the biology, psychology and philosophy of material perception. Also  we will compare how contemporary material depictions from the arts and computer science relate to historical counterparts. 
+
 
 ## Food 
 **Theme speaker:** John Hutchings <br>
@@ -31,9 +31,9 @@ The perception and depiction of food is a theme that connects the mastery of sti
 Many process of making are iterative and contain steps or stages that merit inspection themselves, next to the final result. This holds for painting as well as many other art or design processes. 
 
 
-## Style & Quality
+## Style, Appearance and Aesthetics
 **Theme speaker:** TBA<br>
-One of the most exciting aspects of depiction is style. The simple algebraic truth that artwork=representation+style has intrigued art historians, designers, artists and vision scientists for ages, and recently has literally become algebraic with neural style transfer algorithms. 
+The simple algebraic truth that artwork=representation+style has intrigued art historians, designers, artists and vision scientists for ages, and recently has literally become algebraic with neural style transfer algorithms. Style can also be seen as the appearance of the depiction, but can vice versa material appearance be seen as style? And what about the undeniable aesthetic pleasure that both style and material appearance can both evoke? 
 
 
 ## Digital
@@ -43,14 +43,14 @@ A very broad term, that we will happily misuse to combine both digital art histo
 
 
 # Submission
-We welcome two types of contributions: Main Dishes and Appetizers. The Main Dishes are general contributions that aim to share (almost) finished work, with a talk duration of 15 minutes. The Appetizers are preliminary ideas, pilot experiments, unfinished research for which feedback, discussion or even collaborators are needed, with a talk duration of 10 minutes. Depending on the amount of contributions we may organise parallel sessions for the Appetizers.
+We welcome two types of contributions: Main Dishes and Appetizers. The Main Dishes are general contributions that aim to share (almost) finished work, with a talk duration of 15 minutes. The Appetizers are preliminary ideas, pilot experiments, unfinished research for which feedback, discussion or even collaborators are needed, with a talk duration of 10 minutes. Depending on the amount of contributions we may organize parallel sessions for the Appetizers.
 
 Abstracts can be send to <img src="images/emailtsot.jpg" alt="drawing" height="22"/>. Please included 1) title, 2) author names, 3) type (Appetizers or Main Dish) and 4) preferred theme in the document. You can use word, text file, etc as long as we can copy the contents easily. Word limit for Main Dish is 300, and for Appetizers 150. 
 
 # Timeline
 
-**Submission deadline** 15 januari 2021<br> 
-**Notification of acceptance** 29 januari 2021<br>
+**Submission deadline** 15 January 2021<br> 
+**Notification of acceptance** 29 January 2021<br>
 **Conference** 15-19 March 2021
 
 # Organizing committee
