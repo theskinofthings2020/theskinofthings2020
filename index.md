@@ -1,10 +1,10 @@
 # About
 
-From **15 to 19 March 2021** we will have the second edition of The Skin of Things ([previously](https://theskinofthings.github.io)) - a multidisciplinary gathering centered around the *perception and depiction of materials*. Just like many other conferences we will go on-line, with some regret as the previous Skin of Things was such a nice social event in and around the Rijksmuseum in Amsterdam. 
+From **15 to 19 March 2021** we will organize the second edition of The Skin of Things ([previously](https://theskinofthings.github.io)) - a multidisciplinary gathering centered around the *perception and depiction of materials*. Just like many other conferences we will go on-line, with some regret as the previous Skin of Things was such a nice social event in and around the Rijksmuseum in Amsterdam. 
 
 To accommodate this melancholia, we thought of something to make up. Besides being a stage to share (almost) finished work we also invite to share preliminary ideas and work. If you are willing to join and contribute to these 'Appetizers', we promise to organize a 'Grande Bouffe' when the time comes to meet physically.  
 
-Besides looking back and looking forward, we also look sideways by programming exciting contributions from different perspectives. We aim to create a program that includes many different contributions. Below we'll explain the type of contributions and the daily themes. 
+Besides looking back and looking forward, we also look sideways by programming exciting contributions from different perspectives. We aim to create a program that includes many different  disciplines and views. Below we'll explain the type of contributions and the daily themes. 
 
 
 
