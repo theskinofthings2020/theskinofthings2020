@@ -12,7 +12,7 @@ Besides looking back and looking forward, we also look sideways by programming e
 
 # Themes
 
-Each day we will discuss a different theme/perspective. The themes have overlap and should be considered as inspirations, not as limitations. Over the past years these specific themes have intrigued and inspired us and we hope they will attract many different views. 
+Each day we will discuss a different theme/perspective. The themes have overlap and should be considered as inspirations, not as limitations. Over the past years these specific themes have intrigued and inspired us and we hope they will attract many interesting contributions. 
 
 The order of the themes may change, so we haven't yet put dates in here. We keep updating information about invited speakers. 
 
@@ -28,7 +28,7 @@ The perception and depiction of food is a theme that connects the mastery of sti
 
 ## Art making
 **Theme speaker:** [Viola Eickmeier](https://studioviolet.org)<br>
-Many process of making are iterative and contain steps or stages that merit inspection themselves, next to the final result. This holds for painting as well as many other art or design processes. 
+The process of making is iterative and contain steps or stages that merit inspection themselves, next to the final result. This holds for painting as well as many other art or design processes. 
 
 
 ## Style, Appearance and Aesthetics
