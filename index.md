@@ -44,7 +44,8 @@ A very broad term, that we will happily misuse to combine both digital art histo
 Besides the keynote speaker and theme speakers we invite a number of speakers that ensure a broad an inspiring discussion about material perception and depiction. The list will be updated.
 - [Kate Storrs](https://www.katestorrs.com) (scientist, material perception and AI, [twitter](https://twitter.com/katestorrs))
 - [Kévin Bray](https://kevinbray.biz) (Artist, [instagram](https://www.instagram.com/bray_kevin/))
-- 
+- [Carlos Arce-Lopera](https://arcelopera.github.io/about/) (scientist, food perception)
+
 
 # Submission
 We welcome two types of contributions: Main Dishes and Appetizers. The Main Dishes are general contributions that aim to share (almost) finished work, with a talk duration of 15 minutes. The Appetizers are preliminary ideas, pilot experiments, unfinished research for which feedback, discussion or even collaborators are needed, with a talk duration of 10 minutes. Depending on the amount of contributions we may organize parallel sessions for the Appetizers.
