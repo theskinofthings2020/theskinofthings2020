@@ -37,7 +37,7 @@ The simple algebraic truth that artwork=representation+style has intrigued art h
 
 
 ## Digital
-**Theme speaker:** TBA<br>
+**Theme speaker:** Rob Erdmann (e.g. [Bosch Project](http://boschproject.org/#/), [Twitter](https://twitter.com/erdmann)<br>
 A very broad term, that we will happily misuse to combine both digital art history and digital rendering. Digital art history is a very broad term that includes aspects from technical art history and conservation science but also the generation and analysis of artistic datasets. Digital rendering has clearly had its own 'oil revolution' over the past 2 decades and is still in high pace development, including generative algorithms. 
 
 
