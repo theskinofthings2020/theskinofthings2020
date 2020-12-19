@@ -40,7 +40,11 @@ The simple algebraic truth that artwork=representation+style has intrigued art h
 **Theme speaker:** Rob Erdmann (e.g. [Bosch Project](http://boschproject.org/#/), [Twitter](https://twitter.com/erdmann)<br>
 A very broad term, that we will happily misuse to combine both digital art history and digital rendering. Digital art history is a very broad term that includes aspects from technical art history and conservation science but also the generation and analysis of artistic datasets. Digital rendering has clearly had its own 'oil revolution' over the past 2 decades and is still in high pace development, including generative algorithms. 
 
-
+## Invited speakers
+Besides the keynote speaker and theme speakers we invite a number of speakers that ensure a broad an inspiring discussion about material perception and depiction. The list will be updated.
+- Kate Storrs (scientist, material perception and AI, [homepage](https://www.katestorrs.com), [twitter](https://twitter.com/katestorrs))
+- Kévin Bray (Artist, [homepage](https://kevinbray.biz), [instagram](https://www.instagram.com/bray_kevin/)
+- 
 
 # Submission
 We welcome two types of contributions: Main Dishes and Appetizers. The Main Dishes are general contributions that aim to share (almost) finished work, with a talk duration of 15 minutes. The Appetizers are preliminary ideas, pilot experiments, unfinished research for which feedback, discussion or even collaborators are needed, with a talk duration of 10 minutes. Depending on the amount of contributions we may organize parallel sessions for the Appetizers.
