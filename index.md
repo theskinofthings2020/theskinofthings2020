@@ -42,8 +42,8 @@ A very broad term, that we will happily misuse to combine both digital art histo
 
 ## Invited speakers
 Besides the keynote speaker and theme speakers we invite a number of speakers that ensure a broad an inspiring discussion about material perception and depiction. The list will be updated.
-- Kate Storrs (scientist, material perception and AI, [homepage](https://www.katestorrs.com), [twitter](https://twitter.com/katestorrs))
-- Kévin Bray (Artist, [homepage](https://kevinbray.biz), [instagram](https://www.instagram.com/bray_kevin/)
+- [Kate Storrs](https://www.katestorrs.com) (scientist, material perception and AI, [twitter](https://twitter.com/katestorrs))
+- [Kévin Bray](https://kevinbray.biz) (Artist, [instagram](https://www.instagram.com/bray_kevin/)
 - 
 
 # Submission
