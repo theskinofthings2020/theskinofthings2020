@@ -32,7 +32,7 @@ The process of making is iterative and contain steps or stages that merit inspec
 
 
 ## Style, Appearance and Aesthetics
-**Theme speaker:** TBA<br>
+**Theme speaker:** [Aaron Hertzman](https://www.dgp.toronto.edu/~hertzman/)<br>
 The simple algebraic truth that artwork=representation+style has intrigued art historians, designers, artists and vision scientists for ages, and recently has literally become algebraic with neural style transfer algorithms. Style can also be seen as the appearance of the depiction, but can vice versa material appearance be seen as style? And what about the undeniable aesthetic pleasure that both style and material appearance can both evoke? 
 
 
@@ -45,7 +45,7 @@ Besides the keynote speaker and theme speakers we invite a number of speakers th
 - [Kate Storrs](https://www.katestorrs.com) (scientist, material perception and AI, [twitter](https://twitter.com/katestorrs))
 - [Kévin Bray](https://kevinbray.biz) (Artist, [instagram](https://www.instagram.com/bray_kevin/))
 - [Carlos Arce-Lopera](https://arcelopera.github.io/about/) (scientist, food perception)
-
+- [Helena Sarin[(https://twitter.com/glagolista)
 
 # Submission
 We welcome two types of contributions: Main Dishes and Appetizers. The Main Dishes are general contributions that aim to share (almost) finished work, with a talk duration of 15 minutes. The Appetizers are preliminary ideas, pilot experiments, unfinished research for which feedback, discussion or even collaborators are needed, with a talk duration of 10 minutes. Depending on the amount of contributions we may organize parallel sessions for the Appetizers.
