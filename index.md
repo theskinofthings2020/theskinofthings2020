@@ -54,8 +54,11 @@ Abstracts can be send to <img src="images/emailtsot.jpg" alt="drawing" height="2
 
 # Timeline
 
-**Submission deadline** 15 January 2021<br> 
-**Notification of acceptance** 29 January 2021<br>
+**Original submission deadline** 15 January 2021<br> 
+**Roling review submission deadline** 1 February 2021<br> 
+**Notification of acceptance (abstracts submitted before 16 january)** 29 January 2021<br>
+**Notification of acceptance (roling review)** not later than 8 February 2021<br>
+
 **Conference** 15-19 March 2021
 
 # Organizing committee
