@@ -23,7 +23,7 @@ On the first day we will discuss material perception and depiction at large. We 
 
 ## Food 
 **Theme speaker:** John Hutchings <br>
-The perception and depiction of food is a theme that connects the mastery of still life painters with packaging design, mutlisensory experience and product photography. The human faculty to visually infer material properties may actually be substantially due to the need to identify and prepare food. 
+The perception and depiction of food is a theme that connects the mastery of still life painters with packaging design, multisensory experience and product photography. The human faculty to visually infer material properties may actually be substantially due to the need to identify and prepare food. 
 
 
 ## Art making
@@ -55,9 +55,9 @@ Abstracts can be send to <img src="images/emailtsot.jpg" alt="drawing" height="2
 # Timeline
 
 **Original submission deadline** 15 January 2021<br> 
-**Roling review submission deadline** 1 February 2021<br> 
-**Notification of acceptance (abstracts submitted before 16 january)** 29 January 2021<br>
-**Notification of acceptance (roling review)** not later than 8 February 2021<br>
+**Rolling review submission deadline** 1 February 2021<br> 
+**Notification of acceptance (abstracts submitted before 16 January)** 29 January 2021<br>
+**Notification of acceptance (rolling review)** not later than 8 February 2021<br>
 
 **Conference** 15-19 March 2021
 
@@ -70,4 +70,5 @@ Francesca Di Cicco<br>
 Mitchell van Zuylen<br>
 Yuguang Zhao<br>
 Ann-Sophie Lehmann
+
 
