@@ -32,7 +32,7 @@ Each day between 15 to 19 March we will have meetings between 15:00 and 18:00 Ce
 
 
 ## Invited speakers
-Besides the keynote speaker and theme speakers we invite a number of speakers that ensure a broad an inspiring discussion about material perception and depiction. The list will be updated.
+Besides the keynote speaker and theme speakers we invite a number of speakers that ensure a broad an inspiring discussion about material perception and depiction.
 - [Kate Storrs](https://www.katestorrs.com) (scientist, material perception and AI, [twitter](https://twitter.com/katestorrs))
 - [Kévin Bray](https://kevinbray.biz) (Artist, [instagram](https://www.instagram.com/bray_kevin/))
 - [Carlos Arce-Lopera](https://arcelopera.github.io/about/) (scientist, food perception)
