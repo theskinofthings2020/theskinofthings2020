@@ -16,19 +16,38 @@ Each day between 15 to 19 March we will have meetings between 15:00 and 18:00 Ce
 
 ## Monday 15 March - General
 **Keynote:** [Donald Hoffman](https://www.cogsci.uci.edu/~ddhoff/) <br>
+Regular: Karl Gegenfurtner 
+Regular: Kavin Bray 
+Regural: Frits Scholten 
 
 ## Tuesday 16 March - Food 
 **Theme speaker:** John Hutchings <br>
+Regular: Carlos Arce Lopera
+Regular: Francesca Di Cicco
+Regular: Helen Sarin
 
 ## Wednesday 17 March - Art making
 **Theme speaker:** [Viola Eickmeier](https://studioviolet.org)<br>
+Regular: Lisa Wiersma
+Regular: Johanna Delanoy
+Regular: Indra Kneepkens
+Appetizer: Maša Tomšič
 
 ## Thursday 18 March - Style And Appearance
 **Theme speaker:** [Aaron Hertzman](https://www.dgp.toronto.edu/~hertzman/)<br>
+Regular:	Li Shiwen
+Regular:	Yuguang Zhao
+Appetizer:	Chenxi Liao
+Appetizer:	Robert Ennis
 
 
 ## Friday 19 March - Digital
 **Theme speaker:** Rob Erdmann (e.g. [Bosch Project](http://boschproject.org/#/), [Twitter](https://twitter.com/erdmann))<br>
+Regular:	Manuel Lagunas
+Regular:	Kate Storrs
+Regular:	Mitchell van Zuylen
+Appetizer:	Pascal Barla
+
 
 
 ## Invited speakers
