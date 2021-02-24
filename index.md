@@ -14,6 +14,8 @@ Besides looking back and looking forward, we also look sideways by programming e
 
 Each day between 15 to 19 March we will have meetings between 15:00 and 18:00 Central European Time (CET). Luckily, Daylight Saving Time in the US starts earlier than Europe, so there will be a time difference of 5 (east coast) to 7 hours (west coast).  
 
+In the three hours we will have plenty of time for discussions, improvisations and surprises. 
+
 ## Monday 15 March - General
 **Keynote:** [Donald Hoffman](https://www.cogsci.uci.edu/~ddhoff/) <br>
 Regular: Karl Gegenfurtner  <br>
