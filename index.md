@@ -35,7 +35,7 @@ Regular: Johanna Delanoy - *Perception of material appearance: a comparison betw
 Regular: Indra Kneepkens - *Remarkable simplicity and dazzling skill: the role of oils and additives in Van Eyck's rendering of materials*<br>
 Appetizer: Maša Tomšič - *Strokes and Brushes, Cuts and Wounds*
 
-## Thursday 18 March - Style And Appearance
+## Thursday 18 March - Style and appearance
 **Theme speaker:** [Aaron Hertzman](https://www.dgp.toronto.edu/~hertzman/) - *Why Do Line Drawings Work?*<br>
 Regular:	Li Shiwen - *Perception of iridescence*<br>
 Regular:	Yuguang Zhao - *The Appearance of Apple Depictions*<br>
