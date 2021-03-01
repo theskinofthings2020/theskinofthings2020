@@ -17,7 +17,7 @@ Each day between 15 to 19 March we will have meetings between 15:00 and 18:00 Ce
 In the three hours we will have plenty of time for discussions, improvisations and surprises. 
 
 ## Monday 15 March - General
-**Keynote:** [Donald Hoffman](https://www.cogsci.uci.edu/~ddhoff/) <br>
+**Keynote:** [Donald Hoffman](https://www.cogsci.uci.edu/~ddhoff/) - *Colors and Chromatures: An Evolutionary View of Perception* <br>
 Regular: Karl Gegenfurtner  <br>
 Regular: Kavin Bray  <br>
 Regural: Frits Scholten 
