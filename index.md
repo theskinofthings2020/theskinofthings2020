@@ -23,32 +23,32 @@ Regular: Kavin Bray  <br>
 Regural: Frits Scholten -  *Skins of sculpture*
 
 ## Tuesday 16 March - Food 
-**Theme speaker:** John Hutchings *Specification of Total Appearance - ‘measuring’ what we see*<br>
-Regular: Carlos Arce Lopera *Color distribution of fresh and ripe fruits* <br>
-Regular: Francesca Di Cicco *A taste of art*<br>
-Regular: Helen Sarin *The Art of #veGAN*
+**Theme speaker:** John Hutchings - *Specification of Total Appearance - ‘measuring’ what we see*<br>
+Regular: Carlos Arce Lopera - *Color distribution of fresh and ripe fruits* <br>
+Regular: Francesca Di Cicco - *A taste of art*<br>
+Regular: Helen Sarin - *The Art of #veGAN*
 
 ## Wednesday 17 March - Art making
 **Theme speaker:** [Viola Eickmeier](https://studioviolet.org) - *Material Properties*<br>
 Regular: Lisa Wiersma <br>
-Regular: Johanna Delanoy *Perception of material appearance: a comparison between painted and rendered images*<br>
-Regular: Indra Kneepkens *Remarkable simplicity and dazzling skill: the role of oils and additives in Van Eyck's rendering of materials*<br>
-Appetizer: Maša Tomšič *Strokes and Brushes, Cuts and Wounds*
+Regular: Johanna Delanoy - *Perception of material appearance: a comparison between painted and rendered images*<br>
+Regular: Indra Kneepkens - *Remarkable simplicity and dazzling skill: the role of oils and additives in Van Eyck's rendering of materials*<br>
+Appetizer: Maša Tomšič - *Strokes and Brushes, Cuts and Wounds*
 
 ## Thursday 18 March - Style And Appearance
 **Theme speaker:** [Aaron Hertzman](https://www.dgp.toronto.edu/~hertzman/) - *Why Do Line Drawings Work?*<br>
-Regular:	Li Shiwen *Perception of iridescence*<br>
-Regular:	Yuguang Zhao *The Appearance of Apple Depictions*<br>
-Appetizer:	Chenxi Liao *Individual Differences in Classification of Translucent Materials Using Photos of Real-world Objects*<br>
-Appetizer:	Robert Ennis *Matching the colors of materials – An experiment in web-based VR*
+Regular:	Li Shiwen - *Perception of iridescence*<br>
+Regular:	Yuguang Zhao - *The Appearance of Apple Depictions*<br>
+Appetizer:	Chenxi Liao - *Individual Differences in Classification of Translucent Materials Using Photos of Real-world Objects*<br>
+Appetizer:	Robert Ennis - *Matching the colors of materials – An experiment in web-based VR*
 
 
 ## Friday 19 March - Digital
 **Theme speaker:** Rob Erdmann (e.g. [Bosch Project](http://boschproject.org/#/), [Twitter](https://twitter.com/erdmann))<br>
-Regular:	Kate Storrs *Learning about material properties by learning about images*<br>
+Regular:	Kate Storrs - *Learning about material properties by learning about images*<br>
 Regular:	Manuel Lagunas - *A similarity measure for material appearance*<br>
-Regular:	Mitchell van Zuylen *The Materials In Painting (MIP) Dataset – A large scale collection of material annotations within artworks.*<br>
-Appetizer:	Pascal Barla *Inverse material depiction*
+Regular:	Mitchell van Zuylen - *The Materials In Painting (MIP) Dataset – A large scale collection of material annotations within artworks.*<br>
+Appetizer:	Pascal Barla - *Inverse material depiction*
 
 
 
