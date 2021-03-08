@@ -18,7 +18,7 @@ In the three hours we will have plenty of time for discussions, improvisations a
 
 ## Monday 15 March - General
 **Keynote:** [Donald Hoffman](https://www.cogsci.uci.edu/~ddhoff/) - *Colors and Chromatures: An Evolutionary View of Perception* <br>
-Regular: Karl Gegenfurtner  - *Perception disentangles different causes of saturation in natural objects* <br>
+Regular:	Kate Storrs - *Learning about material properties by learning about images*<br>
 Regular: Kavin Bray  <br>
 Regural: Frits Scholten -  *Skins of sculpture*
 
@@ -27,6 +27,8 @@ Regural: Frits Scholten -  *Skins of sculpture*
 Regular: Carlos Arce Lopera - *Color distribution of fresh and ripe fruits* <br>
 Regular: Francesca Di Cicco - *A taste of art*<br>
 Regular: Helen Sarin - *The Art of #veGAN*
+Regular: Karl Gegenfurtner  - *Perception disentangles different causes of saturation in natural objects* <br>
+
 
 ## Wednesday 17 March - Art making
 **Theme speaker:** [Viola Eickmeier](https://studioviolet.org) - *Material Properties*<br>
@@ -35,6 +37,8 @@ Regular: Johanna Delanoy - *Perception of material appearance: a comparison betw
 Regular: Indra Kneepkens - *Remarkable simplicity and dazzling skill: the role of oils and additives in Van Eyck's rendering of materials*<br>
 Appetizer: Maša Tomšič - *Strokes and Brushes, Cuts and Wounds*
 
+Social program: reception and tour through Rijksmuseum
+
 ## Thursday 18 March - Style and appearance
 **Theme speaker:** [Aaron Hertzman](https://www.dgp.toronto.edu/~hertzman/) - *Why Do Line Drawings Work?*<br>
 Regular:	Li Shiwen - *Perception of iridescence*<br>
@@ -42,15 +46,16 @@ Regular:	Yuguang Zhao - *The Appearance of Apple Depictions*<br>
 Appetizer:	Chenxi Liao - *Individual Differences in Classification of Translucent Materials Using Photos of Real-world Objects*<br>
 Appetizer:	Robert Ennis - *Matching the colors of materials – An experiment in web-based VR*
 
+Social program: depicting materials workshop
+
 
 ## Friday 19 March - Digital
 **Theme speaker:** Rob Erdmann (e.g. [Bosch Project](http://boschproject.org/#/), [Twitter](https://twitter.com/erdmann))<br>
-Regular:	Kate Storrs - *Learning about material properties by learning about images*<br>
+
 Regular:	Manuel Lagunas - *A similarity measure for material appearance*<br>
 Regular:	Mitchell van Zuylen - *The Materials In Painting (MIP) Dataset – A large scale collection of material annotations within artworks.*<br>
+Regular: Hubert Lin - *Learning More Robust Neural Network Representations with Paintings of Materials and Objects*<br>
 Appetizer:	Pascal Barla - *Inverse material depiction*
-
-
 
 ## Invited speakers
 Besides the keynote speaker and theme speakers we invite a number of speakers that ensure a broad an inspiring discussion about material perception and depiction.
