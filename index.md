@@ -19,7 +19,7 @@ In the three hours we will have plenty of time for discussions, improvisations a
 ## Monday 15 March - General
 **Keynote:** [Donald Hoffman](https://www.cogsci.uci.edu/~ddhoff/) - *Colors and Chromatures: An Evolutionary View of Perception* <br>
 Regular:	Kate Storrs - *Learning about material properties by learning about images*<br>
-Regular: Kavin Bray  <br>
+Regular: Kevin Bray  <br>
 Regural: Frits Scholten -  *Skins of sculpture*
 
 ## Tuesday 16 March - Food 
