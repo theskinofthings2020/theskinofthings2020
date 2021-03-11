@@ -17,7 +17,7 @@ Each day between 15 to 19 March we will have meetings between 15:00 and (approxi
 ## Monday 15 March - General
 **Keynote:** [Donald Hoffman](https://www.cogsci.uci.edu/~ddhoff/) - *Colors and Chromatures: An Evolutionary View of Perception* <br>
 Regular:	Kate Storrs - *Learning about material properties by learning about images*<br>
-Regular: Kevin Bray  <br>
+Regular: Kevin Bray  - *The substances of our immaterial narratives.*<br>
 Regural: Frits Scholten -  *Skins of sculpture*
 
 ## Tuesday 16 March - Food 
